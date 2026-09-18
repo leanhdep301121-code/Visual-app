@@ -1,0 +1,5611 @@
+{
+  "sourceLanguage" : "zh-Hans",
+  "strings" : {
+    "" : {
+
+    },
+    "—" : {
+
+    },
+    "·" : {
+
+    },
+    "· frame %lld" : {
+
+    },
+    "“%@”" : {
+
+    },
+    "%@ 出现在 %lld%% 的挥杆里。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ showed up in %2$lld%% of your swings. %3$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ 出现在 %2$lld%% 的挥杆里。%3$@"
+          }
+        }
+      }
+    },
+    "%@ 在 %lld%% 的挥杆里出现。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ showed up in %2$lld%% of your swings."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ 在 %2$lld%% 的挥杆里出现。"
+          }
+        }
+      }
+    },
+    "%@ 试试这个——%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ Try this — %2$@."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ 试试这个——%2$@。"
+          }
+        }
+      }
+    },
+    "%@再练一次。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@Run it one more time. %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@再练一次。%2$@"
+          }
+        }
+      }
+    },
+    "%@再调准一杆。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dial in one more swing on %@."
+          }
+        }
+      }
+    },
+    "%@是最后一块。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is the last piece."
+          }
+        }
+      }
+    },
+    "%@看更准" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More accurate from %@"
+          }
+        }
+      }
+    },
+    "%@老出现。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ keeps showing up."
+          }
+        }
+      }
+    },
+    "%@这块真有进步——目前到这就很好，再往上叠。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real progress on %@—that's solid for now, keep building on it."
+          }
+        }
+      }
+    },
+    "%1$@ 出现在 %2$lld%% 的挥杆里。%3$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ showed up in %2$lld%% of your swings. %3$@"
+          }
+        }
+      }
+    },
+    "%1$@ 在 %2$lld%% 的挥杆里出现。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ appeared in %2$lld%% of your swings."
+          }
+        }
+      }
+    },
+    "%1$@ 试试这个——%2$@。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ Try this — %2$@."
+          }
+        }
+      }
+    },
+    "%1$@再练一次。%2$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ once more. %2$@"
+          }
+        }
+      }
+    },
+    "%1$lld / %2$lld 杆" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld / %2$lld swings"
+          }
+        }
+      }
+    },
+    "%1$lld 杆 · 均分 %2$lld · 区间 %3$lld–%4$lld。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld swings · avg %2$lld · range %3$lld–%4$lld."
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld / %lld 杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld / %2$lld swings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld 杆"
+          }
+        }
+      }
+    },
+    "%lld 分钟" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld min"
+          }
+        }
+      }
+    },
+    "%lld 杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld swings"
+          }
+        }
+      }
+    },
+    "%lld 杆 · 均分 %lld · 区间 %lld–%lld。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld swings · avg %2$lld · range %3$lld–%4$lld."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld 杆 · 均分 %2$lld · 区间 %3$lld–%4$lld。"
+          }
+        }
+      }
+    },
+    "•" : {
+
+    },
+    "⚠️ probs all-zero → pose/PoseTCN NOT running (camera/model?)" : {
+
+    },
+    "✓ probs flowing → detection alive (issue is downstream)" : {
+
+    },
+    "Address 前倾大于 45°，容易在下杆时主动起身（early extension）。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your address tilt is over 45°, which makes you stand up out of posture on the downswing (early extension)."
+          }
+        }
+      }
+    },
+    "Address 时右脚内侧主动蹬地,带动右髋向后转。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At address, push off the inside of your trail foot to drive your trail hip back."
+          }
+        }
+      }
+    },
+    "Address 时脊柱几乎竖直，挥杆面会过于平直，容易薄/顶球。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At address your spine is nearly upright, so the swing plane gets too flat and you tend to thin or top the ball."
+          }
+        }
+      }
+    },
+    "Address 时髋向后坐 + 上身前倾 25-30°，下巴对着球。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At address, sit your hips back and tilt your upper body forward 25-30°, chin pointing at the ball."
+          }
+        }
+      }
+    },
+    "AR 职业陪练" : {
+
+    },
+    "cam:%@  phase:%@  tts:%@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "cam:%1$@  phase:%2$@  tts:%3$@"
+          }
+        }
+      }
+    },
+    "DEBUG" : {
+
+    },
+    "debug log (%lld)" : {
+
+    },
+    "event" : {
+
+    },
+    "Faded toward the end" : {
+
+    },
+    "Finished stronger" : {
+
+    },
+    "GoSwin" : {
+
+    },
+    "GoSwin · v%@" : {
+
+    },
+    "hip" : {
+
+    },
+    "L-el" : {
+
+    },
+    "L-kn" : {
+
+    },
+    "last: %@" : {
+
+    },
+    "Life-size pro — study the swing" : {
+
+    },
+    "mode" : {
+
+    },
+    "REC" : {
+
+    },
+    "Record" : {
+
+    },
+    "shoulder" : {
+
+    },
+    "spine" : {
+
+    },
+    "state:%@" : {
+
+    },
+    "Stop recording" : {
+
+    },
+    "swings:%lld" : {
+
+    },
+    "Top 不追求最大转幅,左肩到下巴下方即可停。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, don't chase a huge turn — stop once your lead shoulder is under your chin."
+          }
+        }
+      }
+    },
+    "Top 后停 0.2 秒再下杆，重心转移先于手臂发力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause 0.2 seconds at the top, then start down—let your weight shift before your arms fire."
+          }
+        }
+      }
+    },
+    "Top 后立刻启动下杆，让髋先于手臂触发。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start the downswing right at the top, letting your hips fire before your arms."
+          }
+        }
+      }
+    },
+    "Top 时主动让左肩转到下巴下方，髋部保持稳定不跟着转过去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, turn your lead shoulder under your chin and keep your hips stable so they don't spin through with it."
+          }
+        }
+      }
+    },
+    "Top 时左肩要转到下巴下方,左臂尽量伸直。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, turn your lead shoulder under your chin and keep your lead arm as straight as you can."
+          }
+        }
+      }
+    },
+    "Top 时肩转动不到 70°,挥杆弧线短,失去距离。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your shoulders turn less than 70°, so your arc is short and you lose distance."
+          }
+        }
+      }
+    },
+    "Top 时肩转动超过 110°,Top 位失控,下杆容易失去节奏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your shoulders turn past 110° at the top—it gets out of control and you lose your tempo coming down."
+          }
+        }
+      }
+    },
+    "Top 时肩髋分离不到 25°，意味着躯干没有储能。理想 X-factor 是 35-45°。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your shoulder-hip separation is under 25°, so your torso isn't storing energy. The ideal X-factor is 35-45°."
+          }
+        }
+      }
+    },
+    "Top 时肩髋分离超过 60°,身体超出柔韧度,容易引发下背部代偿。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your shoulder-hip separation goes past 60°, beyond your flexibility, which tends to force your lower back to compensate."
+          }
+        }
+      }
+    },
+    "Top 时髋只转了不到 25°,下半身没有参与挥杆,主要靠上身手臂发力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hips turned less than 25° at the top, so your lower body isn't joining the swing and you're powering it mostly with your arms."
+          }
+        }
+      }
+    },
+    "Top 时髋转超过 60°,下半身储能流失,身体没有阻力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your hips turn past 60°, so the lower body leaks stored energy and there's no resistance."
+          }
+        }
+      }
+    },
+    "X" : {
+
+    },
+    "X-factor 不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough X-factor"
+          }
+        }
+      }
+    },
+    "X-factor 过大" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-factor too large"
+          }
+        }
+      }
+    },
+    "X-factor（肩髋分离）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-factor (shoulder–hip separation)"
+          }
+        }
+      }
+    },
+    "一件事：" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One thing:"
+          }
+        }
+      }
+    },
+    "一键成片" : {
+
+    },
+    "上下杆比例大于 4:1，下杆失去爆发力，球速会偏低。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your backswing-to-downswing ratio is over 4:1, so the downswing loses its punch and ball speed drops."
+          }
+        }
+      }
+    },
+    "上下杆比例小于 2.5:1，下杆抢节奏。理想是 BS:DS = 3:1。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your backswing:downswing ratio is under 2.5:1 — you're rushing the downswing. Aim for BS:DS = 3:1."
+          }
+        }
+      }
+    },
+    "上传一段你之前录的挥杆，我们先帮你找出最该改的地方。也可以跳过，之后再做。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload a swing you recorded earlier and we'll find what to fix first. You can also skip and do it later."
+          }
+        }
+      }
+    },
+    "上传已有视频" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload a video"
+          }
+        }
+      }
+    },
+    "上传挥杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload Swing"
+          }
+        }
+      }
+    },
+    "上杆中段" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mid-backswing"
+          }
+        }
+      }
+    },
+    "上杆右移（晃身）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sway on the backswing"
+          }
+        }
+      }
+    },
+    "上杆幅度太短" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backswing too short"
+          }
+        }
+      }
+    },
+    "上杆时把重心压到右脚（后侧），而不是在顶点往目标方向倒。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the backswing, load your weight into your trail foot—don't tip toward the target at the top."
+          }
+        }
+      }
+    },
+    "上杆时把髋和肩充分转进去，让前肩转到球的后方。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the backswing, turn your hips and shoulders fully so your lead shoulder turns behind the ball."
+          }
+        }
+      }
+    },
+    "上杆时把髋转进去——顶点时前膝应指向球或球的后方。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn your hips into the backswing-at the top your lead knee should point at the ball or just behind it."
+          }
+        }
+      }
+    },
+    "上杆时整个身子往右滑出去了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your whole body slid out to the trail side on the backswing"
+          }
+        }
+      }
+    },
+    "上杆时绕着右髋转，而不是整个身子往右滑出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the backswing, turn around your trail hip instead of sliding your whole body to the right."
+          }
+        }
+      }
+    },
+    "上杆时髋部没转够" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips don't turn enough on the backswing"
+          }
+        }
+      }
+    },
+    "上杆晃身" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sway on the backswing"
+          }
+        }
+      }
+    },
+    "上杆过短" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backswing too short"
+          }
+        }
+      }
+    },
+    "上身蓄力充分" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upper body fully loaded"
+          }
+        }
+      }
+    },
+    "上身转得少" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough upper-body turn"
+          }
+        }
+      }
+    },
+    "下一杆。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next swing."
+          }
+        }
+      }
+    },
+    "下一步 — 选个重点" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next — pick a focus"
+          }
+        }
+      }
+    },
+    "下杆中段" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mid-downswing"
+          }
+        }
+      }
+    },
+    "下杆从地面发起——让髋先动、球杆顺势落到身后，而不是把杆往球的方向甩出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start the downswing from the ground up. Let your hips move first and the club drop behind you, instead of throwing the club out toward the ball."
+          }
+        }
+      }
+    },
+    "下杆偏拖" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downswing dragging"
+          }
+        }
+      }
+    },
+    "下杆抡过头（out-to-in）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over the top (out-to-in)"
+          }
+        }
+      }
+    },
+    "下杆时加快一点——果断打穿球。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speed it up a touch coming down—commit and hit through the ball."
+          }
+        }
+      }
+    },
+    "下杆时把髋转开，而不是越过球往目标方向平推。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the downswing, turn your hips open instead of sliding them past the ball toward the target."
+          }
+        }
+      }
+    },
+    "下次开头 5 分钟专门练%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next time, spend the first 5 minutes just on %@."
+          }
+        }
+      }
+    },
+    "下盘稳定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lower body stable"
+          }
+        }
+      }
+    },
+    "下节目标" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next session goal"
+          }
+        }
+      }
+    },
+    "不够" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough"
+          }
+        }
+      }
+    },
+    "不设" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "不设目标 — 想练多久练多久。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No goal — practice as long as you like."
+          }
+        }
+      }
+    },
+    "不错。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice."
+          }
+        }
+      }
+    },
+    "不错的一杆。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice swing."
+          }
+        }
+      }
+    },
+    "两件小事，保证分析准确。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Two quick things to keep the analysis accurate."
+          }
+        }
+      }
+    },
+    "中等" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        }
+      }
+    },
+    "中途姿态走形" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posture breaks down mid-swing"
+          }
+        }
+      }
+    },
+    "主要问题：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main issue: %@"
+          }
+        }
+      }
+    },
+    "云端 AI" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cloud AI"
+          }
+        }
+      }
+    },
+    "人脸偏暗,挪亮处或正对光" : {
+
+    },
+    "人脸曝光合适" : {
+
+    },
+    "今天" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "今天没有反复出现的问题。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No recurring issues today."
+          }
+        }
+      }
+    },
+    "今天的重点" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's focus"
+          }
+        }
+      }
+    },
+    "从站位到击球，感觉胸口一直对着球往下，别让上半身提前抬起。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From setup to impact, feel your chest stay down over the ball—don't let your upper body lift early."
+          }
+        }
+      }
+    },
+    "从顶点直接往球扑出去" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lunging straight at the ball from the top"
+          }
+        }
+      }
+    },
+    "优势" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strength"
+          }
+        }
+      }
+    },
+    "你" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You"
+          }
+        }
+      }
+    },
+    "你%@练了很多——挺扎实。下一个。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You worked %@ a lot-solid stuff. Next one."
+          }
+        }
+      }
+    },
+    "你用哪只手打球？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Which hand do you play with?"
+          }
+        }
+      }
+    },
+    "你的手腕轨迹（实线）对比理想轨迹（虚线）— 抡过头会鼓到外侧" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your wrist path (solid) vs. the ideal path (dashed) — coming over the top bulges to the outside."
+          }
+        }
+      }
+    },
+    "例如「不想再剃头打高球了」" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e.g. “stop thinning my shots”"
+          }
+        }
+      }
+    },
+    "侧面" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Down-the-line"
+          }
+        }
+      }
+    },
+    "保存中…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving…"
+          }
+        }
+      }
+    },
+    "保存失败：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save failed: %@"
+          }
+        }
+      }
+    },
+    "保持住。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold it. %@"
+          }
+        }
+      }
+    },
+    "保持右膝弯曲不蹬直,髋只转 35-45° 就够。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep your trail knee flexed—don't straighten it—and turn your hips just 35-45°, that's plenty."
+          }
+        }
+      }
+    },
+    "保持稳定——和上一节差不多水平。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Holding steady — about the same as last session."
+          }
+        }
+      }
+    },
+    "保持脊柱角度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep your spine angle"
+          }
+        }
+      }
+    },
+    "保持脊柱角度不变——从站位到击球同一个姿态，中途别站起来也别弓背。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep your spine angle the same from setup all the way to impact. Don't stand up and don't round your back."
+          }
+        }
+      }
+    },
+    "保持节奏，坚持练习。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep the tempo and keep at it."
+          }
+        }
+      }
+    },
+    "保持这个感觉。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold on to that feeling."
+          }
+        }
+      }
+    },
+    "倾斜 — 后肩往下绕，不要越过去" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilted — drop the trail shoulder down and around, not over the top"
+          }
+        }
+      }
+    },
+    "倾斜 — 站位时让髋保持水平" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilted — keep your hips level at setup"
+          }
+        }
+      }
+    },
+    "偏低" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low"
+          }
+        }
+      }
+    },
+    "偏差大" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Way off"
+          }
+        }
+      }
+    },
+    "偏差较大 — 需要练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pretty far off - needs work"
+          }
+        }
+      }
+    },
+    "偏快" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fast"
+          }
+        }
+      }
+    },
+    "偏慢" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slow"
+          }
+        }
+      }
+    },
+    "偏浅" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shallow"
+          }
+        }
+      }
+    },
+    "偏热" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm"
+          }
+        }
+      }
+    },
+    "偏移" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offset"
+          }
+        }
+      }
+    },
+    "偏陡" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steep"
+          }
+        }
+      }
+    },
+    "偏高" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High"
+          }
+        }
+      }
+    },
+    "做得好的" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What went well"
+          }
+        }
+      }
+    },
+    "做无杆挥杆,先髋转 45°再单独转肩到位,感受拉伸但不发力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make club-free swings: turn your hips 45° first, then turn your shoulders on top — feel the stretch without forcing it."
+          }
+        }
+      }
+    },
+    "充分蓄力转身" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coil fully into the turn"
+          }
+        }
+      }
+    },
+    "先改%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fix %@ first"
+          }
+        }
+      }
+    },
+    "先跳过" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip for now"
+          }
+        }
+      }
+    },
+    "光线太暗" : {
+
+    },
+    "全程稳定。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steady the whole way through."
+          }
+        }
+      }
+    },
+    "全部" : {
+
+    },
+    "全面练习" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All-round practice"
+          }
+        }
+      }
+    },
+    "关" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off"
+          }
+        }
+      }
+    },
+    "关闭" : {
+
+    },
+    "关闭各阶段自动暂停" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn off auto-pause"
+          }
+        }
+      }
+    },
+    "关闭并排对比" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide side-by-side"
+          }
+        }
+      }
+    },
+    "关闭职业骨架对照" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide pro overlay"
+          }
+        }
+      }
+    },
+    "其他问题" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other issues"
+          }
+        }
+      }
+    },
+    "再一杆——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One more swing — %@"
+          }
+        }
+      }
+    },
+    "再坚持一下——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stick with it a bit longer-%@"
+          }
+        }
+      }
+    },
+    "再来——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Again. %@"
+          }
+        }
+      }
+    },
+    "再来一杆。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit another one."
+          }
+        }
+      }
+    },
+    "最近" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recent"
+          }
+        }
+      }
+    },
+    "最近30天" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last 30 days"
+          }
+        }
+      }
+    },
+    "准备好就开。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start when you're ready."
+          }
+        }
+      }
+    },
+    "准备好就开挥。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swing when you’re ready."
+          }
+        }
+      }
+    },
+    "几个小问题，让教练更懂你。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A few quick questions so your coach knows you better."
+          }
+        }
+      }
+    },
+    "击球" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impact"
+          }
+        }
+      }
+    },
+    "击球后前臂往上弯了起来" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your forearm bent upward after impact"
+          }
+        }
+      }
+    },
+    "击球很实。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid contact."
+          }
+        }
+      }
+    },
+    "击球时别把髋往目标方向平推——要把它转开。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At impact, don't slide your hips toward the target—turn them open instead."
+          }
+        }
+      }
+    },
+    "击球时前腿应蹬直支撑 — " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At impact your lead leg should straighten and post up — "
+          }
+        }
+      }
+    },
+    "击球时前腿撑起来——感觉它蹬直、顶住地面把力量释放出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post up on your lead leg through impact-feel it straighten and push into the ground to release the power."
+          }
+        }
+      }
+    },
+    "击球时前腿没撑住" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your lead leg didn't post up at impact"
+          }
+        }
+      }
+    },
+    "击球时前臂在肘部弯曲 — " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your forearm bends at the elbow through impact — "
+          }
+        }
+      }
+    },
+    "击球时屁股往后顶住——想象后面有面墙，你正贴着墙坐下去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At impact, push your backside back—imagine a wall behind you and sit into it."
+          }
+        }
+      }
+    },
+    "击球时蹬地、把前腿蹬直，撑住地面、把速度释放出来。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At impact, push off the ground and straighten your lead leg to brace against it and release your speed."
+          }
+        }
+      }
+    },
+    "击球时顶髋平移" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip slide through impact"
+          }
+        }
+      }
+    },
+    "击球瞬间身子站了起来" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You stood up out of your posture right at impact"
+          }
+        }
+      }
+    },
+    "击球起身" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Early extension at impact"
+          }
+        }
+      }
+    },
+    "分享精彩集" : {
+
+    },
+    "分析" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze"
+          }
+        }
+      }
+    },
+    "分析一段你已经录好的挥杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze a swing you already filmed"
+          }
+        }
+      }
+    },
+    "分析中… %lld%%" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing… %lld%%"
+          }
+        }
+      }
+    },
+    "分析完成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analysis complete"
+          }
+        }
+      }
+    },
+    "分钟" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "min"
+          }
+        }
+      }
+    },
+    "别急——这个确实有点难。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take your time — this one's genuinely tricky."
+          }
+        }
+      }
+    },
+    "别赶节奏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't rush your tempo"
+          }
+        }
+      }
+    },
+    "前手没到达肩线以上" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lead hand doesn't get above shoulder level"
+          }
+        }
+      }
+    },
+    "前肘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lead elbow"
+          }
+        }
+      }
+    },
+    "前腿未支撑发力" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lead leg not posting up"
+          }
+        }
+      }
+    },
+    "前腿没支撑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lead leg not posting"
+          }
+        }
+      }
+    },
+    "前腿蹬直支撑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Straighten and post up on the lead leg"
+          }
+        }
+      }
+    },
+    "前膝" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lead knee"
+          }
+        }
+      }
+    },
+    "前臂充分伸展" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forearms fully extended"
+          }
+        }
+      }
+    },
+    "动作整体在合理范围内,继续保持节奏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your overall motion is in a good range — keep that tempo going."
+          }
+        }
+      }
+    },
+    "动作识别不完整,请尝试重新录一次。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We couldn't fully track the motion, please try recording again."
+          }
+        }
+      }
+    },
+    "历史" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "厘米" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cm"
+          }
+        }
+      }
+    },
+    "原因" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cause"
+          }
+        }
+      }
+    },
+    "原地转身" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn in place"
+          }
+        }
+      }
+    },
+    "又是这个毛病——%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This fault again — %@."
+          }
+        }
+      }
+    },
+    "双肩" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoulders"
+          }
+        }
+      }
+    },
+    "变了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changed"
+          }
+        }
+      }
+    },
+    "另一杆" : {
+
+    },
+    "右手" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right"
+          }
+        }
+      }
+    },
+    "右手球员" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right-handed player"
+          }
+        }
+      }
+    },
+    "各事件关节角度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joint angles per event"
+          }
+        }
+      }
+    },
+    "各事件指标" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrics per event"
+          }
+        }
+      }
+    },
+    "各阶段自动暂停" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto-pause at phases"
+          }
+        }
+      }
+    },
+    "后程下滑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faded late"
+          }
+        }
+      }
+    },
+    "后程下滑——前半段均分 %1$lld，后半段掉到 %2$lld。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faded late — first half averaged %1$lld, second half dropped to %2$lld."
+          }
+        }
+      }
+    },
+    "后程下滑——前半段均分 %lld，后半段掉到 %lld。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fading at the end—you averaged %1$lld in the first half and dropped to %2$lld in the second."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "后程下滑——前半段均分 %1$lld，后半段掉到 %2$lld。"
+          }
+        }
+      }
+    },
+    "后程强劲——后半段均分 %1$lld，前半段 %2$lld。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finished strong — second half averaged %1$lld vs %2$lld in the first."
+          }
+        }
+      }
+    },
+    "后程强劲——后半段均分 %lld，前半段 %lld。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strong finish — you averaged %1$lld in the back half vs %2$lld in the first."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "后程强劲——后半段均分 %1$lld，前半段 %2$lld。"
+          }
+        }
+      }
+    },
+    "后肘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trail elbow"
+          }
+        }
+      }
+    },
+    "后肘夹书练习" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Book-under-trail-elbow drill"
+          }
+        }
+      }
+    },
+    "后肘抬到了肩线以上" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your trail elbow lifted above your shoulder line"
+          }
+        }
+      }
+    },
+    "后膝" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trail knee"
+          }
+        }
+      }
+    },
+    "回看第 %lld 杆" : {
+
+    },
+    "在球上选一个点，击球全程让头稳在它上方——少上下点、少左右移。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a spot on the ball and keep your head steady over it through impact — less bobbing up and down, less moving side to side."
+          }
+        }
+      }
+    },
+    "在球上选一个点，让头稳在它上方；可以让朋友拿杆轻轻贴在你头边作参照，再挥杆。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a spot on the ball and keep your head steady over it—have a friend rest a club lightly against your head as a reference, then swing."
+          }
+        }
+      }
+    },
+    "在球的外侧放一个杆头套；下杆从地面发起，让球杆从内侧落下、绕过它。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a headcover just outside the ball; start the downswing from the ground and drop the club inside to come around it."
+          }
+        }
+      }
+    },
+    "塌了 — 保持一些支撑结构" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapsing — keep some structure"
+          }
+        }
+      }
+    },
+    "太弓 — 站高一点" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too rounded — stand taller"
+          }
+        }
+      }
+    },
+    "太直 — 从髋部前倾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too upright — hinge from the hips"
+          }
+        }
+      }
+    },
+    "头有没有离开站位时的圆圈？— " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did your head leave the circle from your setup? - "
+          }
+        }
+      }
+    },
+    "头部晃动" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Head movement"
+          }
+        }
+      }
+    },
+    "好些了——%@这杆收了点。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Better — %@ tightened up on this one."
+          }
+        }
+      }
+    },
+    "好太多了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Much better."
+          }
+        }
+      }
+    },
+    "姿态走形" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posture breaks down"
+          }
+        }
+      }
+    },
+    "存到相册" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save to Photos"
+          }
+        }
+      }
+    },
+    "存相册 %lld" : {
+
+    },
+    "完成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "完整报告" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full report"
+          }
+        }
+      }
+    },
+    "实时挥杆" : {
+
+    },
+    "实测采集模式" : {
+
+    },
+    "对——保持这个动作。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes—keep that move."
+          }
+        }
+      }
+    },
+    "对准人再判光" : {
+
+    },
+    "对准你的挥杆，实时帮你看问题" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Point at your swing — we spot the issues live"
+          }
+        }
+      }
+    },
+    "对准挥杆，点一下就开拍" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aim at your swing and tap to start"
+          }
+        }
+      }
+    },
+    "对墙站立,保持背部贴墙做转肩,确认转到 90°。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand with your back against a wall and make your shoulder turn keeping contact, checking you reach 90°."
+          }
+        }
+      }
+    },
+    "对比" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare"
+          }
+        }
+      }
+    },
+    "就是这样——%@清掉了。固定下来。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's it. %@ is gone. Lock it in."
+          }
+        }
+      }
+    },
+    "就绪" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready"
+          }
+        }
+      }
+    },
+    "展开详细数据" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show details"
+          }
+        }
+      }
+    },
+    "左手" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left"
+          }
+        }
+      }
+    },
+    "左手球员" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left-handed player"
+          }
+        }
+      }
+    },
+    "已存到相册" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved to Photos"
+          }
+        }
+      }
+    },
+    "已录 %lld 杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld swings recorded"
+          }
+        }
+      }
+    },
+    "已留" : {
+
+    },
+    "帧数" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frame"
+          }
+        }
+      }
+    },
+    "干净" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean"
+          }
+        }
+      }
+    },
+    "干净了点。现在别多想。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little cleaner. Now don't overthink it."
+          }
+        }
+      }
+    },
+    "干净利落的一杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A clean swing"
+          }
+        }
+      }
+    },
+    "干净利落的一杆 — 节奏和平衡都不错，保持下去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean swing - good tempo and balance, keep it up."
+          }
+        }
+      }
+    },
+    "平衡收杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanced finish"
+          }
+        }
+      }
+    },
+    "并排对比职业" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Side-by-side vs pro"
+          }
+        }
+      }
+    },
+    "应更直" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Should be straighter"
+          }
+        }
+      }
+    },
+    "开始" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        }
+      }
+    },
+    "开始一节练习 — 每一节都会存在这里。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start a session — each one is saved here."
+          }
+        }
+      }
+    },
+    "开始新一节" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start New Session"
+          }
+        }
+      }
+    },
+    "开始训练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start practice"
+          }
+        }
+      }
+    },
+    "弧形参考 · 距离未标定" : {
+
+    },
+    "弯了 — 击球时前臂伸直" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bent — extend your forearm through impact"
+          }
+        }
+      }
+    },
+    "弯曲过多 — 打穿球时蹬直" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too bent — straighten as you drive through"
+          }
+        }
+      }
+    },
+    "弯曲过多 — 把重心压到后侧" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too bent — load onto the trail side"
+          }
+        }
+      }
+    },
+    "强光直射人脸,避开直射" : {
+
+    },
+    "录制中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recording"
+          }
+        }
+      }
+    },
+    "待确认" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unconfirmed"
+          }
+        }
+      }
+    },
+    "很正常，这需要多练几次。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's normal—it takes a few more reps."
+          }
+        }
+      }
+    },
+    "微热" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mildly warm"
+          }
+        }
+      }
+    },
+    "微调一下：" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A small tweak:"
+          }
+        }
+      }
+    },
+    "快了。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too quick. %@"
+          }
+        }
+      }
+    },
+    "惯用手" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominant hand"
+          }
+        }
+      }
+    },
+    "感受一下：" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feel for it:"
+          }
+        }
+      }
+    },
+    "感觉前臂保持伸长并转动（不是折起来）过击球点——双臂朝目标伸出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feel your forearms stay long and rotate—not fold—through impact, reaching both arms out toward the target."
+          }
+        }
+      }
+    },
+    "成了——%@出去了。保持住。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got it — %@ is gone. Keep it up."
+          }
+        }
+      }
+    },
+    "我们换个简单点的方式。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's try an easier way."
+          }
+        }
+      }
+    },
+    "我们盯一下%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's focus on %@."
+          }
+        }
+      }
+    },
+    "我的" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me"
+          }
+        }
+      }
+    },
+    "我看到%@一直在。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I keep seeing %@."
+          }
+        }
+      }
+    },
+    "或者自己描述" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Or describe your own"
+          }
+        }
+      }
+    },
+    "手机在你正前方，正对你的胸口。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Put the phone right in front of you, facing your chest."
+          }
+        }
+      }
+    },
+    "手机在你身后，顺着目标线方向看过去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Put your phone behind you, looking down the target line."
+          }
+        }
+      }
+    },
+    "扎实" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid"
+          }
+        }
+      }
+    },
+    "扎实 — 注意%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid—watch %@"
+          }
+        }
+      }
+    },
+    "扎实的一杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A solid swing"
+          }
+        }
+      }
+    },
+    "打开设置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        }
+      }
+    },
+    "打穿球后伸展" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extension through the ball"
+          }
+        }
+      }
+    },
+    "打穿球时，前臂充分朝目标方向伸直。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As you hit through the ball, fully extend your forearm toward the target."
+          }
+        }
+      }
+    },
+    "找到你的节奏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find your tempo"
+          }
+        }
+      }
+    },
+    "把上下分离控制在 35-50°,先稳住下半身再做肩部转动。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep your separation at 35-50° — steady your lower body first, then turn your shoulders."
+          }
+        }
+      }
+    },
+    "把收杆定住——充分转到前脚侧，在那儿稳住一拍。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold your finish-turn all the way onto your lead foot and hold it for a beat."
+          }
+        }
+      }
+    },
+    "把本节最佳挥杆拼成合集" : {
+
+    },
+    "把起杆放慢——上杆与下杆争取做到 3 比 1。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slow your takeaway down. Aim for a 3-to-1 backswing-to-downswing."
+          }
+        }
+      }
+    },
+    "把转换放平顺——感觉顶点处稍微停顿一下再下杆；争取上杆与下杆 3 比 1 的节奏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smooth out the transition — feel a slight pause at the top before the downswing, and aim for a 3-to-1 backswing-to-downswing tempo."
+          }
+        }
+      }
+    },
+    "把转身做完整" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Complete your turn"
+          }
+        }
+      }
+    },
+    "把转身做完整——顶点时让前臂转到与地面平行（或更高）。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finish your turn — at the top get your lead forearm parallel to the ground or higher."
+          }
+        }
+      }
+    },
+    "抡过头" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over the top"
+          }
+        }
+      }
+    },
+    "报告" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report"
+          }
+        }
+      }
+    },
+    "拍摄实验台 (debug)" : {
+
+    },
+    "指标" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrics"
+          }
+        }
+      }
+    },
+    "指标暂不可用 — 挥杆事件不完整。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrics unavailable — incomplete swing events."
+          }
+        }
+      }
+    },
+    "挑一杆来比" : {
+
+    },
+    "挥到一个完整、平衡的收杆姿势，重心在前脚上，定住一拍。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swing to a full, balanced finish with your weight on your lead foot and hold it for a beat."
+          }
+        }
+      }
+    },
+    "挥到一半姿态变了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posture changes midway through the swing"
+          }
+        }
+      }
+    },
+    "挥得稍微快了点" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A touch too fast"
+          }
+        }
+      }
+    },
+    "挥得稍微慢了点" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A touch slow on that swing"
+          }
+        }
+      }
+    },
+    "挥杆事件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swing events"
+          }
+        }
+      }
+    },
+    "挥杆分析" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swing Analysis"
+          }
+        }
+      }
+    },
+    "挥杆弧线干净" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean swing arc"
+          }
+        }
+      }
+    },
+    "挥杆过程中头一直在动" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your head keeps moving throughout the swing"
+          }
+        }
+      }
+    },
+    "挺扎实。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid."
+          }
+        }
+      }
+    },
+    "换一杆比" : {
+
+    },
+    "接近了。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close. %@"
+          }
+        }
+      }
+    },
+    "接连命中，保持这个节奏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back-to-back good ones — keep this rhythm going."
+          }
+        }
+      }
+    },
+    "推荐训练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommended drill"
+          }
+        }
+      }
+    },
+    "提取姿态中 · %lld%%" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extracting pose · %lld%%"
+          }
+        }
+      }
+    },
+    "搞定——%@没了。保持住。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nailed it-%@ is gone. Keep it."
+          }
+        }
+      }
+    },
+    "收杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finish"
+          }
+        }
+      }
+    },
+    "收杆失衡" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off-balance finish"
+          }
+        }
+      }
+    },
+    "收杆时没站稳" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off balance at the finish"
+          }
+        }
+      }
+    },
+    "收杆时重心稳稳落在前脚上方（竖线）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the finish your weight settles solidly over your lead foot (vertical line)"
+          }
+        }
+      }
+    },
+    "收起详细数据" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide details"
+          }
+        }
+      }
+    },
+    "改善：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improves: %@"
+          }
+        }
+      }
+    },
+    "改进" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improve"
+          }
+        }
+      }
+    },
+    "放慢点。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slow it down. %@"
+          }
+        }
+      }
+    },
+    "教学型，带些温度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instructional, with some warmth"
+          }
+        }
+      }
+    },
+    "教练建议" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coach tip"
+          }
+        }
+      }
+    },
+    "教练点评" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coach notes"
+          }
+        }
+      }
+    },
+    "教练语音" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coach voice"
+          }
+        }
+      }
+    },
+    "整体好多了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Much better overall."
+          }
+        }
+      }
+    },
+    "整体很不错的一节。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A solid session overall."
+          }
+        }
+      }
+    },
+    "方向对了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're on the right track."
+          }
+        }
+      }
+    },
+    "时长" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time"
+          }
+        }
+      }
+    },
+    "明快、鼓励型" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upbeat and encouraging"
+          }
+        }
+      }
+    },
+    "明显" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noticeable"
+          }
+        }
+      }
+    },
+    "明显进步——比上一节高了 %lld 分。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear progress — up %lld points from last session."
+          }
+        }
+      }
+    },
+    "昨天" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yesterday"
+          }
+        }
+      }
+    },
+    "显示问题标记" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show issue tag"
+          }
+        }
+      }
+    },
+    "更早" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Earlier"
+          }
+        }
+      }
+    },
+    "更近了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even closer."
+          }
+        }
+      }
+    },
+    "更近了。保持这个感觉。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getting closer. Hold onto that feeling."
+          }
+        }
+      }
+    },
+    "有好有坏——几杆干净，还有些要练。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mixed bag — a few clean swings, some to work on."
+          }
+        }
+      }
+    },
+    "有潜力" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promising"
+          }
+        }
+      }
+    },
+    "有问题" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Needs work"
+          }
+        }
+      }
+    },
+    "本节最佳挥杆合集" : {
+
+    },
+    "本节报告" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session report"
+          }
+        }
+      }
+    },
+    "本节没有其它可比的挥杆" : {
+
+    },
+    "本节没有可拼接的挥杆视频" : {
+
+    },
+    "本节趋势" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session trend"
+          }
+        }
+      }
+    },
+    "本节进展" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session progress"
+          }
+        }
+      }
+    },
+    "机位" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera angle"
+          }
+        }
+      }
+    },
+    "机位设置" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera setup"
+          }
+        }
+      }
+    },
+    "杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "swings"
+          }
+        }
+      }
+    },
+    "杆头套障碍练习" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Headcover obstacle drill"
+          }
+        }
+      }
+    },
+    "杆数" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swings"
+          }
+        }
+      }
+    },
+    "杆贴胸口练习：把球杆横抵胸口，做半挥让杆始终贴胸。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Club-on-chest drill: hold the club across your chest and make half swings, keeping it pressed to your chest the whole way."
+          }
+        }
+      }
+    },
+    "来。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's go."
+          }
+        }
+      }
+    },
+    "查看全部历史" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View all history"
+          }
+        }
+      }
+    },
+    "查看每一杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View each swing"
+          }
+        }
+      }
+    },
+    "查看结果" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View result"
+          }
+        }
+      }
+    },
+    "标记" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark"
+          }
+        }
+      }
+    },
+    "根本原因" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root cause"
+          }
+        }
+      }
+    },
+    "检测到 %1$lld 个可改进点。%2$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Found %1$lld things to improve. %2$@"
+          }
+        }
+      }
+    },
+    "检测到 %lld 个可改进点。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Found %1$lld things to work on. %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "检测到 %1$lld 个可改进点。%2$@"
+          }
+        }
+      }
+    },
+    "检测挥杆事件 + 指标中…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detecting swing events + metrics…"
+          }
+        }
+      }
+    },
+    "椅子练习:坐在椅子边沿做无杆挥杆,感受髋部主动旋转。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chair drill: sit on the edge of a chair and make a swing with no club, feeling your hips drive the rotation."
+          }
+        }
+      }
+    },
+    "欢迎来到 GoSwin" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to GoSwin"
+          }
+        }
+      }
+    },
+    "正在分析你的每一杆…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing each of your swings…"
+          }
+        }
+      }
+    },
+    "正在分析这一杆…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing this swing…"
+          }
+        }
+      }
+    },
+    "正在找你的挥杆规律…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding your swing patterns…"
+          }
+        }
+      }
+    },
+    "正在拼接…" : {
+
+    },
+    "正在生成报告…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generating report…"
+          }
+        }
+      }
+    },
+    "正在用系统语音（未配置云端语音）。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using system voice (cloud voice not configured)."
+          }
+        }
+      }
+    },
+    "正常" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "正确蓄力压重心" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good load with weight on the trail side"
+          }
+        }
+      }
+    },
+    "正面" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face-on"
+          }
+        }
+      }
+    },
+    "每3杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every 3 swings"
+          }
+        }
+      }
+    },
+    "每5杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every 5 swings"
+          }
+        }
+      }
+    },
+    "每一杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every swing"
+          }
+        }
+      }
+    },
+    "每杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per swing"
+          }
+        }
+      }
+    },
+    "比一开始好太多了。先放这儿，继续打。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Way better than where you started. Leave it there and keep swinging."
+          }
+        }
+      }
+    },
+    "比例" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ratio"
+          }
+        }
+      }
+    },
+    "沉着专业，带点温度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calm and pro, with a bit of warmth"
+          }
+        }
+      }
+    },
+    "沉稳导师——平稳，从不严厉" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steady mentor—calm, never harsh"
+          }
+        }
+      }
+    },
+    "没有发现明显问题。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No obvious issues found."
+          }
+        }
+      }
+    },
+    "没有发现问题" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No issues found"
+          }
+        }
+      }
+    },
+    "没有特别突出的——继续积累稳定性。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing really stands out. Keep building consistency."
+          }
+        }
+      }
+    },
+    "游客" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guest"
+          }
+        }
+      }
+    },
+    "点一下试听。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to preview."
+          }
+        }
+      }
+    },
+    "点下方选一段视频" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap below to pick a video"
+          }
+        }
+      }
+    },
+    "点任意一条，在视频上看它。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap any item to see it on the video."
+          }
+        }
+      }
+    },
+    "点任意一条，在视频上看它。先改最上面那条 — 它下面的问题往往会跟着自己消失。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap any item to see it on the video. Fix the top one first — the issues below often resolve on their own."
+          }
+        }
+      }
+    },
+    "热身一杆完成。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm-up swing done."
+          }
+        }
+      }
+    },
+    "状态一般——比上次低了 %lld 分。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off day — down %lld points from last time."
+          }
+        }
+      }
+    },
+    "生成中…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generating…"
+          }
+        }
+      }
+    },
+    "用稳定、有运动感的节奏果断打穿球——别在击球时减速。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commit and hit through the ball with a smooth, athletic tempo — don't slow down at impact."
+          }
+        }
+      }
+    },
+    "留存全部挥杆视频与弹道数据，文件 app 可导出" : {
+
+    },
+    "留这杆" : {
+
+    },
+    "症状" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptom"
+          }
+        }
+      }
+    },
+    "症状 · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptom · %@"
+          }
+        }
+      }
+    },
+    "登录功能即将上线 · 记录暂存本机" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign-in coming soon · data stored on device"
+          }
+        }
+      }
+    },
+    "目标 ~%1$lld°%2$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Target ~%1$lld°%2$@"
+          }
+        }
+      }
+    },
+    "目标 ~%lld°%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Target ~%1$lld°%2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "目标 ~%1$lld°%2$@"
+          }
+        }
+      }
+    },
+    "盯住%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stay on %@."
+          }
+        }
+      }
+    },
+    "直接开始" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just start"
+          }
+        }
+      }
+    },
+    "相信这个动作——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trust the move — %@"
+          }
+        }
+      }
+    },
+    "相册访问被拒绝" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo library access denied"
+          }
+        }
+      }
+    },
+    "相对站位的转髋 — " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip turn relative to your setup - "
+          }
+        }
+      }
+    },
+    "看着很顺。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looking smooth."
+          }
+        }
+      }
+    },
+    "视频不可用" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video unavailable"
+          }
+        }
+      }
+    },
+    "视频片段已被清除（可能是重装了 app）。下面的分析仍然可用。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The video clip was cleared (maybe the app was reinstalled). The analysis below is still available."
+          }
+        }
+      }
+    },
+    "离线规则" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offline rules"
+          }
+        }
+      }
+    },
+    "秒数" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seconds"
+          }
+        }
+      }
+    },
+    "移动了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moved"
+          }
+        }
+      }
+    },
+    "稳头练习" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steady-head drill"
+          }
+        }
+      }
+    },
+    "稳重、可信" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steady and reliable"
+          }
+        }
+      }
+    },
+    "站位" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup"
+          }
+        }
+      }
+    },
+    "站位弯腰过多" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bending over too much at address"
+          }
+        }
+      }
+    },
+    "站位时弯腰弯得太多" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too much bend from the waist at address"
+          }
+        }
+      }
+    },
+    "站位时站得高一点——从髋部前倾，不是弓背。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand a little taller at setup — hinge from your hips, don't hunch your back."
+          }
+        }
+      }
+    },
+    "站位时脊柱前倾 — " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spine tilt from the hips at setup - "
+          }
+        }
+      }
+    },
+    "站高一点，从髋部前倾（不是弯腰），膝盖微屈——别在站位时弓背。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand a bit taller, tilt from your hips (not your waist), and soften your knees. Don't round your back at setup."
+          }
+        }
+      }
+    },
+    "端上实时挥杆教练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On-device real-time swing coach"
+          }
+        }
+      }
+    },
+    "第 %lld 杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swing %lld"
+          }
+        }
+      }
+    },
+    "第%lld帧" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frame %lld"
+          }
+        }
+      }
+    },
+    "第一杆，先找找感觉。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First swing, just get a feel for it."
+          }
+        }
+      }
+    },
+    "第一杆记下了，放松点。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First swing's logged, relax."
+          }
+        }
+      }
+    },
+    "精彩集" : {
+
+    },
+    "练一练%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Work on %@"
+          }
+        }
+      }
+    },
+    "练习" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice"
+          }
+        }
+      }
+    },
+    "练完的每一节都会在这里，一节一张卡。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every finished session lands here, one card each."
+          }
+        }
+      }
+    },
+    "结束" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End"
+          }
+        }
+      }
+    },
+    "绕着右髋转，而不是往右滑出去——感觉右髋往后转，不是平移出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn around your trail hip instead of sliding out to the trail side. Feel your trail hip rotating back, not sliding."
+          }
+        }
+      }
+    },
+    "给我们看一杆" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show us a swing"
+          }
+        }
+      }
+    },
+    "继续" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "继续。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep going."
+          }
+        }
+      }
+    },
+    "继续打磨%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep polishing %@."
+          }
+        }
+      }
+    },
+    "继续盯着——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep at it. %@"
+          }
+        }
+      }
+    },
+    "继续练%@。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep working on %1$@. %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "继续练%1$@。%2$@"
+          }
+        }
+      }
+    },
+    "继续练%1$@。%2$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep working on %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "综合一节 — 出现什么问题我们都会指出来。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A full session — we’ll flag whatever comes up."
+          }
+        }
+      }
+    },
+    "职业" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
+          }
+        }
+      }
+    },
+    "职业骨架对照" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro overlay"
+          }
+        }
+      }
+    },
+    "肩" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoulder"
+          }
+        }
+      }
+    },
+    "肩转动不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough shoulder turn"
+          }
+        }
+      }
+    },
+    "肩部转过头" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over-rotating the shoulders"
+          }
+        }
+      }
+    },
+    "肩髋分离" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-factor (shoulder–hip separation)"
+          }
+        }
+      }
+    },
+    "脊柱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spine"
+          }
+        }
+      }
+    },
+    "脊柱前倾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spine tilt"
+          }
+        }
+      }
+    },
+    "脊柱前倾不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough spine tilt"
+          }
+        }
+      }
+    },
+    "脊柱前倾过度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spine tilts too far forward"
+          }
+        }
+      }
+    },
+    "脊柱角度：现在（实线）对比站位时（虚线）— " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spine angle: now (solid) vs. setup (dashed) — "
+          }
+        }
+      }
+    },
+    "脊柱角度稳定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stable spine angle"
+          }
+        }
+      }
+    },
+    "脚内侧夹球做挥杆,确认髋部不过度松开。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make swings with a ball squeezed between the insides of your feet to make sure your hips don't unwind too far."
+          }
+        }
+      }
+    },
+    "自动" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        }
+      }
+    },
+    "自由" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free"
+          }
+        }
+      }
+    },
+    "良好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good"
+          }
+        }
+      }
+    },
+    "节奏（上杆 : 下杆）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo (backswing : downswing)"
+          }
+        }
+      }
+    },
+    "节奏（上杆:下杆）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo (backswing:downswing)"
+          }
+        }
+      }
+    },
+    "节奏与各阶段时长" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo and phase timing"
+          }
+        }
+      }
+    },
+    "节奏拖沓" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo drags"
+          }
+        }
+      }
+    },
+    "节奏接近职业" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo close to a pro"
+          }
+        }
+      }
+    },
+    "节奏流畅" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smooth tempo"
+          }
+        }
+      }
+    },
+    "节奏过快" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo too quick"
+          }
+        }
+      }
+    },
+    "节奏过慢" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo too slow"
+          }
+        }
+      }
+    },
+    "节拍器 4 拍：tic(start)-tic-tic(top)-toc(impact) 均匀。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metronome, 4 beats: tic(start)-tic-tic(top)-toc(impact), nice and even."
+          }
+        }
+      }
+    },
+    "蓄力 %lld°" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coil %lld°"
+          }
+        }
+      }
+    },
+    "要改的" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What to fix"
+          }
+        }
+      }
+    },
+    "要转不要滑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn, don't slide"
+          }
+        }
+      }
+    },
+    "观看这个训练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch this drill"
+          }
+        }
+      }
+    },
+    "解码姿态 + 重算指标中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decoding pose + recomputing metrics"
+          }
+        }
+      }
+    },
+    "训练" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drill"
+          }
+        }
+      }
+    },
+    "训练库" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drill library"
+          }
+        }
+      }
+    },
+    "设个目标" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a goal"
+          }
+        }
+      }
+    },
+    "试试这个——" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try this —"
+          }
+        }
+      }
+    },
+    "语言" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "语音指导" : {
+
+    },
+    "诱因" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contributing factor"
+          }
+        }
+      }
+    },
+    "调整一下再挥。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjust, then swing."
+          }
+        }
+      }
+    },
+    "资深老师的语气" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seasoned-coach tone"
+          }
+        }
+      }
+    },
+    "起始时屁股轻贴墙（或椅子）。击球全程让髋部保持后顶贴住它，而不是往球的方向顶出去。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start with your backside lightly touching a wall (or chair). Keep your hips pressed back against it through impact instead of thrusting toward the ball."
+          }
+        }
+      }
+    },
+    "起始时弯腰过多" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too much bend at the start"
+          }
+        }
+      }
+    },
+    "起杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takeaway"
+          }
+        }
+      }
+    },
+    "起身（顶髋）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Early extension (standing up)"
+          }
+        }
+      }
+    },
+    "越练越好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improving"
+          }
+        }
+      }
+    },
+    "跟我的另一杆比" : {
+
+    },
+    "跟着我，会练出来的。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Follow my lead — you'll get there."
+          }
+        }
+      }
+    },
+    "跟着练，一个一个改。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Follow along and fix them one by one."
+          }
+        }
+      }
+    },
+    "跟随系统" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        }
+      }
+    },
+    "跳到这一帧" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to this frame"
+          }
+        }
+      }
+    },
+    "踏实、让人安心" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grounded and reassuring"
+          }
+        }
+      }
+    },
+    "蹬直了 — 保持微屈" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Locked straight — keep a slight flex"
+          }
+        }
+      }
+    },
+    "身高 — 选填" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Height — optional"
+          }
+        }
+      }
+    },
+    "转换偏急" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transition too quick"
+          }
+        }
+      }
+    },
+    "转肩" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoulder turn"
+          }
+        }
+      }
+    },
+    "转肩落后于髋 — 多蓄力" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoulders lag the hips — coil more"
+          }
+        }
+      }
+    },
+    "转过头了 — 髋部失去了抵抗" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over-rotated — hips lost their resistance"
+          }
+        }
+      }
+    },
+    "转髋" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip turn"
+          }
+        }
+      }
+    },
+    "转髋 %lld°" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip turn %lld°"
+          }
+        }
+      }
+    },
+    "转髋不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough hip turn"
+          }
+        }
+      }
+    },
+    "轻微" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slight"
+          }
+        }
+      }
+    },
+    "过多" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too much"
+          }
+        }
+      }
+    },
+    "过热" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overheating"
+          }
+        }
+      }
+    },
+    "运动姿态站位" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Athletic setup posture"
+          }
+        }
+      }
+    },
+    "返回" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "还在弯" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Still bent"
+          }
+        }
+      }
+    },
+    "还是这个——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Still this one—%@"
+          }
+        }
+      }
+    },
+    "还是这个重点——%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same focus — %@"
+          }
+        }
+      }
+    },
+    "还没有分析。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No analysis yet."
+          }
+        }
+      }
+    },
+    "还没有练习记录" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No practice sessions yet"
+          }
+        }
+      }
+    },
+    "还行 — 有几处要收拾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not bad — a few things to clean up"
+          }
+        }
+      }
+    },
+    "还需打磨" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Needs polish"
+          }
+        }
+      }
+    },
+    "这一杆" : {
+
+    },
+    "这一杆没有保存视频" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No video saved for this swing"
+          }
+        }
+      }
+    },
+    "这一杆没有明显问题 — 动作很平衡。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No obvious issues with this swing — nicely balanced."
+          }
+        }
+      }
+    },
+    "这一杆没看清楚" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't read this swing clearly"
+          }
+        }
+      }
+    },
+    "这是进步。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's progress."
+          }
+        }
+      }
+    },
+    "这杆有了，再来一次。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You've got that one—run it again."
+          }
+        }
+      }
+    },
+    "这杆没有%@了。保持这个感觉。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No %@ on this one. Hold onto that feeling."
+          }
+        }
+      }
+    },
+    "这节有点吃力——我们回到基础上。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This session was a grind-let's get back to basics."
+          }
+        }
+      }
+    },
+    "这里还是空的" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing here yet"
+          }
+        }
+      }
+    },
+    "这里进步很大。今天够了——往下走。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Big improvement here. That's enough for today — move on."
+          }
+        }
+      }
+    },
+    "进展" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progress"
+          }
+        }
+      }
+    },
+    "进行中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In progress"
+          }
+        }
+      }
+    },
+    "连着%lld杆——你进状态了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld swings in a row — you're dialed in."
+          }
+        }
+      }
+    },
+    "连着三杆——放松点。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three in a row-ease up."
+          }
+        }
+      }
+    },
+    "连着四杆，什么都别改。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit four in a row and change nothing."
+          }
+        }
+      }
+    },
+    "送杆中段" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mid-release"
+          }
+        }
+      }
+    },
+    "送杆时鸡翅膀（前臂弯）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chicken wing through release (bent forearm)"
+          }
+        }
+      }
+    },
+    "逆光:太阳在身后,换个方向站位" : {
+
+    },
+    "逆光:强光在右,往左挪或把杆转到另一侧" : {
+
+    },
+    "逆光:强光在左,往右挪或把杆转到另一侧" : {
+
+    },
+    "选一段挥杆视频" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a swing video"
+          }
+        }
+      }
+    },
+    "选一段竖屏的高尔夫挥杆视频来分析" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a vertical golf swing video to analyze"
+          }
+        }
+      }
+    },
+    "选个重点和目标，然后开挥" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a focus and goal, then swing"
+          }
+        }
+      }
+    },
+    "选择视频" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose video"
+          }
+        }
+      }
+    },
+    "都是选填 — 不想选直接挥也行。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All optional — just swing if you'd rather."
+          }
+        }
+      }
+    },
+    "重新打开 app 生效" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart the app to apply"
+          }
+        }
+      }
+    },
+    "重点：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus: %@"
+          }
+        }
+      }
+    },
+    "重点改这个：%@。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus on this: %1$@. %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "重点改这个：%1$@。%2$@"
+          }
+        }
+      }
+    },
+    "重点改这个：%1$@。%2$@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus on this: %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "重置，感受%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset and feel %@"
+          }
+        }
+      }
+    },
+    "重置。%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset. %@"
+          }
+        }
+      }
+    },
+    "重试" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        }
+      }
+    },
+    "针对你的主要问题 — %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For your main issue — %@"
+          }
+        }
+      }
+    },
+    "锁死了 — 膝盖保持微屈" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Locked — keep the knee slightly flexed"
+          }
+        }
+      }
+    },
+    "镜前慢动作：先转髋 45°，再独立把肩转到 90°，感受拉伸感。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slow motion in the mirror: turn your hips 45° first, then turn your shoulders on their own to 90° and feel the stretch."
+          }
+        }
+      }
+    },
+    "镜前练习设定 Top 上限位,左肩到位即停,不再追加。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirror drill: set a top-of-backswing limit, stop once your lead shoulder is in place, and don't go any further."
+          }
+        }
+      }
+    },
+    "长焦特写" : {
+
+    },
+    "问题" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issue"
+          }
+        }
+      }
+    },
+    "问题拆解" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issue breakdown"
+          }
+        }
+      }
+    },
+    "降低前倾到 25-30°，膝盖微弯而不是上身过度前压。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ease your hip hinge to 25-30° and add a slight knee flex instead of pressing your upper body too far forward."
+          }
+        }
+      }
+    },
+    "隐藏问题标记" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide issue tag"
+          }
+        }
+      }
+    },
+    "随和、口语化" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easygoing and conversational"
+          }
+        }
+      }
+    },
+    "随着你不断练习，我们会学到你的规律，在这里推荐重点。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As you keep practicing, we learn your patterns and suggest focuses here."
+          }
+        }
+      }
+    },
+    "随着练习，节奏稳下来了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As you practiced, your tempo settled in."
+          }
+        }
+      }
+    },
+    "难以判读" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard to read"
+          }
+        }
+      }
+    },
+    "难判读" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard to read"
+          }
+        }
+      }
+    },
+    "需打磨" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Needs polish"
+          }
+        }
+      }
+    },
+    "需要相机权限" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera access needed"
+          }
+        }
+      }
+    },
+    "静音" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mute"
+          }
+        }
+      }
+    },
+    "静音语音指导" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mute voice guidance"
+          }
+        }
+      }
+    },
+    "靠墙挥杆" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall drill"
+          }
+        }
+      }
+    },
+    "顶点" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top"
+          }
+        }
+      }
+    },
+    "顶点上身蓄力 — " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coil your upper body at the top — "
+          }
+        }
+      }
+    },
+    "顶点反向重心（反轴）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse pivot at the top"
+          }
+        }
+      }
+    },
+    "顶点反轴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse pivot at the top"
+          }
+        }
+      }
+    },
+    "顶点时，感觉肩继续转、髋部抵住不动——两者之间的这股拉伸就是你的力量。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, feel your shoulders keep turning while your hips brace and hold — that stretch between them is your power."
+          }
+        }
+      }
+    },
+    "顶点时上半身往目标方向倾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upper body tilts toward the target at the top"
+          }
+        }
+      }
+    },
+    "顶点时上半身没转够" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your upper body didn't turn enough at the top"
+          }
+        }
+      }
+    },
+    "顶点时后肘往下、收在肋骨前方——别让它抬离身体。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, keep your trail elbow pointing down and tucked in front of your ribs — don't let it lift away from your body."
+          }
+        }
+      }
+    },
+    "顶点时后肘抬离了身体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trail elbow lifts away from the body at the top"
+          }
+        }
+      }
+    },
+    "顶点时把肩充分转过去，同时让髋部少转一些。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, turn your shoulders fully while letting your hips turn less."
+          }
+        }
+      }
+    },
+    "顶点时让前臂转到与地面平行（或更高）——把上杆做完，别中途收住。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, get your forearm parallel to the ground (or higher)-finish the backswing, don't cut it short."
+          }
+        }
+      }
+    },
+    "顶点时让后肘往下、收在肋骨前方——别让它抬离身体。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top, let your trail elbow point down and tuck in front of your ribs. Don't let it lift away from your body."
+          }
+        }
+      }
+    },
+    "顶点时身子反而往目标侧倾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your body leans toward the target instead"
+          }
+        }
+      }
+    },
+    "顶点时重心应该在右脚（后侧）——感觉往后脚里压，而不是往目标侧倒。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the top your weight should be in your trail foot—feel it press into the back foot rather than tipping toward the target."
+          }
+        }
+      }
+    },
+    "顶点转肩不足（X-factor低）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough shoulder turn at the top (low X-factor)"
+          }
+        }
+      }
+    },
+    "顶点飞肘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flying elbow at the top"
+          }
+        }
+      }
+    },
+    "顶髋平移" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip slide"
+          }
+        }
+      }
+    },
+    "髋" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hip"
+          }
+        }
+      }
+    },
+    "髋部" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips"
+          }
+        }
+      }
+    },
+    "髋部往目标方向平移过去了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips slide toward the target"
+          }
+        }
+      }
+    },
+    "髋部滑过了前髋线（虚线）— " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips slide past the lead hip line (dashed) - "
+          }
+        }
+      }
+    },
+    "髋部滑过了后髋线（虚线）— " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hips slid past the trail-hip line (dashed) — "
+          }
+        }
+      }
+    },
+    "髋部转动不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not enough hip turn"
+          }
+        }
+      }
+    },
+    "髋部过度转动" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips turn too much"
+          }
+        }
+      }
+    },
+    "鸡翅膀" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chicken wing"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

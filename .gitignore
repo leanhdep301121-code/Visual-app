@@ -1,0 +1,48 @@
+# Xcode — keep the .xcodeproj itself (required to build), ignore only per-user state
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods (not used, but defensive)
+Pods/
+
+# Models — only the two the app build REQUIRES are committed (small CoreML
+# packages). Everything else under Models/ (optional models, PyTorch .pt,
+# research dirs) stays out of the app repo.
+Models/*
+!Models/yolo11n-pose.mlpackage
+!Models/PoseTCN_v3_1.mlpackage
+
+# Research-only assets living under Resources/ (NOT bundled into the app)
+Resources/samples/
+Resources/club_annotation_refs/
+Resources/tiger_driver_gemini_probe/
+Resources/*.html
+Resources/tiger_driver_club_*.mp4
+Resources/tiger_driver_clubhead_*.mp4
+Resources/tiger_driver_gemini_*.mp4
+Resources/tiger_driver_club_overlay.mp4
+
+# Secrets (API keys etc.)
+Resources/Secrets.plist
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Claude / agent session data
+.claude/
+
+# local build trees (device-target compile checks)
+build-device/
